@@ -1,0 +1,17 @@
+INSERT INTO Exercise (ExerciseName, Description) VALUES
+('Push-up', 'Push your body up and down using your arms.'),
+('Squat', 'Bend your knees and hips to lower your body down, then stand back up.'),
+('Running', 'Move rapidly on foot, typically at a pace faster than walking.'),
+('Sit-up', 'Lift your upper body off the ground towards your knees while lying on your back.'),
+('Deadlift', 'Lift a weighted barbell or dumbbells from the ground to hip level.'),
+('Pull-up', 'Pull your body up towards a bar above your head using your arms.'),
+('Plank', 'Hold a position similar to a push-up but with your weight on your forearms.'),
+('Bench Press', 'Lower a barbell to your chest then push it back up while lying on a bench.'),
+('Jumping Jacks', 'Jump while raising your arms and separating your legs, then return to starting position.'),
+('Bicycle Crunch', 'Lie on your back, raise your legs, and perform a cycling motion with your legs while twisting your torso.'),
+('Burpee', 'Start in a standing position, drop into a squat position, kick your feet back, do a push-up, then jump up.'),
+('Lunges', 'Step forward with one leg, lowering your hips until both knees are bent at about a 90-degree angle.'),
+('Dumbbell Curl', 'Hold dumbbells at your sides and curl them up towards your shoulders.'),
+('Tricep Dip', 'Lower your body by bending your elbows until your upper arms are parallel to the ground, then push back up.'),
+('Mountain Climbers', 'Get into a plank position and quickly alternate bringing your knees towards your chest.'),
+('Russian Twist', 'Sit on the ground, lean back slightly, and rotate your torso from side to side while holding a weight.');
